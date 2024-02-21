@@ -41,8 +41,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/Vysp3r/RetroPlus.git",
-                    "tag": "v0.1.4",
-                    "commit": "b3bc76815cb8272b2010ba6e7fbce611dd344ef5"
+                    "tag": "v0.1.5",
+                    "commit": "8acbf76f0ed45b56dd32ff6d0faa8e56b8bce98c"
                 }
             ]
         }
