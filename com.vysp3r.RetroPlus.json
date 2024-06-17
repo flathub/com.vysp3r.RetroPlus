@@ -1,7 +1,7 @@
 {
     "id": "com.vysp3r.RetroPlus",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "45",
+    "runtime-version": "46",
     "sdk": "org.gnome.Sdk",
     "sdk-extensions": [
         "org.freedesktop.Sdk.Extension.vala"
@@ -41,8 +41,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/Vysp3r/RetroPlus.git",
-                    "tag": "v0.1.5",
-                    "commit": "8acbf76f0ed45b56dd32ff6d0faa8e56b8bce98c"
+                    "commit": "c46c5deb937c66255701cfce20c91287c28a787d"
                 }
             ]
         }
